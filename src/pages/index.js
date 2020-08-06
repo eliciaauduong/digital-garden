@@ -1,14 +1,15 @@
 import React from "react"
 import Layout from "../components/layout"
 import Emoji from "a11y-react-emoji"
-// import { Link } from "gatsby"
-import Header from "../components/header"
+import { Link } from "gatsby"
 
-export default function Home() {
+export default function Home({ data }) {
+  console.log(data)
   return (
     <div>
       <Layout>
-        <Header title="Welcome to my digital garden!" where="root" />
+        <p class="where">Elicia's mind/root</p>
+        <h1>Welcome to my digital garden!</h1>
         <p>
           Hey <Emoji symbol="👋" label="wave" />, it's Elicia and here lie all
           the things on my mind.
@@ -35,13 +36,23 @@ export default function Home() {
             open-sourced
           </a>{" "}
           and made with <Emoji symbol="💛" label="gold heart" /> using{" "}
-          <a href="https://www.gatsbyjs.org/">Gatsby</a>.
+          <a href="https://www.gatsbyjs.org/">Gatsby</a>. You can view updates
+          in the <Link to="/changelog">changelog</Link>.
         </p>
         <h3>Where do I start?</h3>
         <p>You're at the root but here are some links to check out!</p>
         <ul>
-          <li>What I'm reading</li>
-          <li>Here's where we all live, do you know what's happening?</li>
+          <li>
+            <Link to="/100-days-of-code">#100DaysOfCode</Link>
+          </li>
+          <li>
+            <Link to="/reading">Reading list</Link>
+          </li>
+          <li>
+            <Link to="/sustainability">
+              We all live here; do you know what's happening?
+            </Link>
+          </li>
         </ul>
         <p>
           If you're interested in what I do or have any comments about this

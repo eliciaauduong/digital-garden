@@ -11,8 +11,7 @@ h3 {
 }
 
 h2 {
-  font-weight: 500;
-  border-bottom: 2.5px dotted #333;
+  font-weight: 600;
 }
 
 .where {
@@ -23,19 +22,16 @@ h2 {
   letter-spacing: 2pt;
 }
 
-.grid-item {
-  text-align: center;
-  min-width: 40%;
-  float: left;
-  background-color: #dde7d0;
-  margin: 10px;
-  padding: 50px 5px;
+.date {
+  font-size: 0.8rem;
+  text-align: right;
+  letter-spacing: 1pt;
 }
 
 p,
 li {
   line-height: 1.5;
-  font-size: 1.1rem;
+  font-size: 1.05rem;
 }
 
 a {
@@ -45,4 +41,17 @@ a {
 
 a:hover {
   color: #f4abc2;
+}
+
+ul.socials {
+  list-style-type: none;
+  margin: 0;
+  margin-top: 50px;
+  padding: 0;
+}
+
+li.social {
+  display: inline;
+  margin: 10px;
+  font-size: 20px;
 }
