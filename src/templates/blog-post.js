@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { library } from "@fortawesome/fontawesome-svg-core"
 import { fab } from "@fortawesome/free-brands-svg-icons"
 import { faCoffee } from "@fortawesome/free-solid-svg-icons"
-import "../styles/styles.css"
+import "../styles/blog.css"
 import { graphql } from "gatsby"
 
 library.add(fab, faCoffee)
