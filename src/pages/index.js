@@ -45,9 +45,9 @@ export default function Home({ data }) {
           <li>
             <Link to="/100-days-of-code">#100DaysOfCode</Link>
           </li>
-          <li>
+          {/* <li>
             <Link to="/reading">Reading list</Link>
-          </li>
+          </li> */}
           <li>
             <Link to="/sustainability">
               We all live here; do you know what's happening?
