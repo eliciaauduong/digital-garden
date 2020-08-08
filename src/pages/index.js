@@ -43,13 +43,13 @@ export default function Home({ data }) {
         <p>You're at the root but here are some links to check out!</p>
         <ul>
           <li>
-            <Link to="/100-days-of-code">#100DaysOfCode</Link>
+            <Link to="/100-days-of-code/">#100DaysOfCode</Link>
           </li>
           {/* <li>
             <Link to="/reading">Reading list</Link>
           </li> */}
           <li>
-            <Link to="/sustainability">
+            <Link to="/sustainability/">
               We all live here; do you know what's happening?
             </Link>
           </li>
