@@ -1,7 +1,7 @@
 ---
 title: "#100DaysOfCode"
 root: "challenge"
-date: "2020-08-08"
+date: "2020-08-09"
 ---
 
 ## Challenge structure
@@ -11,6 +11,14 @@ date: "2020-08-08"
 - 30 minutes writing
 
 ## Daily log
+
+**Day 3: 09 August 2020**
+
+_Today's Progress_:
+
+- Completed section 1.3 of [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
+
+_Thoughts_: I'm getting back into the rhythm of coding in Python. I realised that I didn't have a clear direction with the different technologies that I wanted to learn. So, I'll be looking into how to develop web applications as well as languages for data analysis as I'm interested in these two areas.
 
 **Day 2: 08 August 2020**
 
