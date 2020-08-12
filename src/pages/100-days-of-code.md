@@ -12,6 +12,33 @@ date: "2020-08-09"
 
 ## Daily log
 
+**Day 6: 12 August 2020**
+
+_Today's Progress_:
+
+- Completed section 1.6 of [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
+- Starting [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/)
+- Restarting [Responsive Web Design Certification](https://www.freecodecamp.org/learn/)
+
+_Thoughts_: I want to update my portfolio to showcase my skills in web development again. However, after retrying the projects in the Responsive Web Design Certification, I realised that I have forgotten some principles and decided to restart the certification. I'm officially a #CodingNewbie again.
+
+**Day 5: 11 August 2020**
+
+_Today's Progress_:
+
+- Completed section 1.5 of [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
+
+_Thoughts_: Slowly but steadily making my way through this course.
+
+**Day 4: 10 August 2020**
+
+_Today's Progress_:
+
+- Completed section 1.4 of [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
+- Started brainstorming ideas for dashboard project
+
+_Thoughts_: Had to remind myself to work on the Practical Python Programming course, but it's building into a habit that I enjoy. I've been having a look at different dashboards that others have created and I'm picking out the different features that I like and want to implement in my own project.
+
 **Day 3: 09 August 2020**
 
 _Today's Progress_:
