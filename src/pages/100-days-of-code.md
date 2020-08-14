@@ -12,6 +12,24 @@ date: "2020-08-09"
 
 ## Daily log
 
+**Day 8: 14 August 2020**
+
+_Today's Progress_:
+
+- Completed section 2.1 of [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
+- Starting [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/)
+
+_Thoughts_: I think that it's good for me to keep learning more about Python and Javascript but I feel like I should be creating more. I would like to ship a couple of projects before the end of the challenge.
+
+**Day 7: 13 August 2020**
+
+_Today's Progress_:
+
+- Completed section 1.7 of [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
+- Continued working on [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/)
+
+_Thoughts_: One week into the challenge and I'm feeling good! 7 DAYS DONE!
+
 **Day 6: 12 August 2020**
 
 _Today's Progress_:
