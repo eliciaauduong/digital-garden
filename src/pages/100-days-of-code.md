@@ -1,7 +1,7 @@
 ---
 title: "#100DaysOfCode"
 root: "challenge"
-date: "2020-08-09"
+date: "2020-08-15"
 ---
 
 ## Challenge structure
@@ -12,12 +12,21 @@ date: "2020-08-09"
 
 ## Daily log
 
+**Day 9: 15 August 2020**
+
+_Today's Progress_:
+
+- Completed section 2.2 of [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
+- Continued working on [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/)
+
+_Thoughts_: Today I really pushed through and finished the basic Javascript section of the JavaScript Algorithms and Data Structures Certification. This is the largest part of the certification (other than the projects) so I'm happy that I was able to finish it in 4 days.
+
 **Day 8: 14 August 2020**
 
 _Today's Progress_:
 
 - Completed section 2.1 of [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
-- Starting [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/)
+- Continued working on [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/)
 
 _Thoughts_: I think that it's good for me to keep learning more about Python and Javascript but I feel like I should be creating more. I would like to ship a couple of projects before the end of the challenge.
 
