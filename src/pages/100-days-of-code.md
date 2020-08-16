@@ -1,7 +1,7 @@
 ---
 title: "#100DaysOfCode"
 root: "challenge"
-date: "2020-08-15"
+date: "2020-08-16"
 ---
 
 ## Challenge structure
@@ -12,6 +12,16 @@ date: "2020-08-15"
 
 ## Daily log
 
+**Day 10: 16 August 2020**
+
+_Today's Progress_:
+
+- Completed section 2.3 of [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
+- Continued working on [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/)
+- Started working on [Responsive Web Design Certification](https://www.freecodecamp.org/learn/)
+
+_Thoughts_: I am finding the ES6 section of the JavaScript Algorithms and Data Structures Certification more difficult than the previous section. So, I was not able to complete much of it today. Instead, I worked on the Responsive Web Design Certification and will return to the ES6 section tomorrow.
+
 **Day 9: 15 August 2020**
 
 _Today's Progress_:
@@ -19,7 +29,7 @@ _Today's Progress_:
 - Completed section 2.2 of [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
 - Continued working on [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/)
 
-_Thoughts_: Today I really pushed through and finished the basic Javascript section of the JavaScript Algorithms and Data Structures Certification. This is the largest part of the certification (other than the projects) so I'm happy that I was able to finish it in 4 days.
+_Thoughts_: Today, I really pushed through and finished the Basic JavaScript section of the JavaScript Algorithms and Data Structures Certification. This is the largest part of the certification (other than the projects) so I'm happy that I was able to finish it in 4 days.
 
 **Day 8: 14 August 2020**
 
