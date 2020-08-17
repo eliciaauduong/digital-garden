@@ -1,7 +1,7 @@
 ---
 title: "#100DaysOfCode"
 root: "challenge"
-date: "2020-08-16"
+date: "2020-08-17"
 ---
 
 ## Challenge structure
@@ -11,6 +11,16 @@ date: "2020-08-16"
 - 30 minutes writing
 
 ## Daily log
+
+**Day 11: 17 August 2020**
+
+_Today's Progress_:
+
+- Completed section 2.4 of [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
+- Continued working on [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/)
+- Continued working on [Responsive Web Design Certification](https://www.freecodecamp.org/learn/)
+
+_Thoughts_: I managed to overcome my problem with the ES6 section yesterday and finished the Basic HTML and HTML5 section of the Responsive Web Design Certification.
 
 **Day 10: 16 August 2020**
 
