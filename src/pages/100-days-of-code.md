@@ -1,7 +1,7 @@
 ---
 title: "#100DaysOfCode"
 root: "challenge"
-date: "2020-08-17"
+date: "2020-08-18"
 ---
 
 ## Challenge structure
@@ -11,6 +11,15 @@ date: "2020-08-17"
 - 30 minutes writing
 
 ## Daily log
+
+**Day 12: 18 August 2020**
+
+_Today's Progress_:
+
+- Completed section 2.5 of [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
+- Completed ES6 section in [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/)
+
+_Thoughts_: I finished the ES6 section today! If I complete one section each day, I can start working on the JavaScript and Web Design projects in one week.
 
 **Day 11: 17 August 2020**
 
