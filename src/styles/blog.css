@@ -1,12 +1,12 @@
 .date {
   font-size: 0.8rem;
-  text-align: right;
   letter-spacing: 1pt;
 }
 
 p,
 li {
   font-size: 1.05rem;
+  letter-spacing: 0.2pt;
   margin: 0;
   padding: 0;
 }

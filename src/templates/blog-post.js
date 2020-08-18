@@ -17,7 +17,7 @@ export default function BlogPost({ data }) {
       <div>
         <p class="where">Elicia's Mind/{post.frontmatter.root}</p>
         <h1>{post.frontmatter.title}</h1>
-        <p class="date">Last updated: {post.frontmatter.date}</p>
+
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <ul class="socials">
           <li class="social">
@@ -37,6 +37,7 @@ export default function BlogPost({ data }) {
           </li>
         </ul>
       </div>
+      <p class="date">Last updated: {post.frontmatter.date}</p>
       {/* highlight-end */}
     </Layout>
   )
