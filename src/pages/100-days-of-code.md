@@ -1,7 +1,7 @@
 ---
 title: "#100DaysOfCode"
 root: "challenge"
-date: "2020-08-18"
+date: "2020-08-19"
 ---
 
 ## Challenge structure
@@ -11,6 +11,15 @@ date: "2020-08-18"
 - 30 minutes writing
 
 ## Daily log
+
+**Day 13: 19 August 2020**
+
+_Today's Progress_:
+
+- Completed Regular Expressions section in [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/)
+- Completed Basic CSS in [Responsive Web Design Certification](https://www.freecodecamp.org/learn/)
+
+_Thoughts_: Completed one section for each certification today. I'm very happy with this progress! :D
 
 **Day 12: 18 August 2020**
 
