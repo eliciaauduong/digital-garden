@@ -12,6 +12,16 @@ date: "2020-08-19"
 
 ## Daily log
 
+**Day 14: 20 August 2020**
+
+_Today's Progress_:
+
+- Completed section 2.6 of [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
+- Completed Debugging section in [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/)
+- Completed Applied Visual Design in [Responsive Web Design Certification](https://www.freecodecamp.org/learn/)
+
+_Thoughts_: I am officially two weeks into the challenge! Today, I completed one section for Practical Python Programming in addition to one section for each certification! It's a lot of content to take in, but I am learning so much!
+
 **Day 13: 19 August 2020**
 
 _Today's Progress_:
