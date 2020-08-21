@@ -12,6 +12,15 @@ date: "2020-08-19"
 
 ## Daily log
 
+**Day 15: 21 August 2020**
+
+_Today's Progress_:
+
+- Completed Basic Data Structures in [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/)
+- Completed Applied Accessibility in [Responsive Web Design Certification](https://www.freecodecamp.org/learn/)
+
+_Thoughts_: I was busy studying for an exam today but I am happy that I still managed to complete these two sections!
+
 **Day 14: 20 August 2020**
 
 _Today's Progress_:
