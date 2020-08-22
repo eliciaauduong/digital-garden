@@ -12,6 +12,15 @@ date: "2020-08-19"
 
 ## Daily log
 
+**Day 16: 22 August 2020**
+
+_Today's Progress_:
+
+- Completed 10/16 challenges in Basic Algorithm Scripting in [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/)
+- Completed Responsive Web Design Principles in [Responsive Web Design Certification](https://www.freecodecamp.org/learn/)
+
+_Thoughts_: I found Basic Algorithm Scripting more challenging than the previous JavaScript sections so I couldn't finish them all today.
+
 **Day 15: 21 August 2020**
 
 _Today's Progress_:
