@@ -12,6 +12,15 @@ date: "2020-08-19"
 
 ## Daily log
 
+**Day 17: 23 August 2020**
+
+_Today's Progress_:
+
+- Completed Basic Algorithm Scripting in [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/)
+- Completed CSS Flexbox in [Responsive Web Design Certification](https://www.freecodecamp.org/learn/)
+
+_Thoughts_: There's one more section of the Responsive Web Design Certification before I can start working on the projects. I'm so excited to get started on these.
+
 **Day 16: 22 August 2020**
 
 _Today's Progress_:
