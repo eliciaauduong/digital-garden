@@ -1,7 +1,7 @@
 ---
 title: "#100DaysOfCode"
 root: "challenge"
-date: "2020-08-19"
+date: "2020-08-24"
 ---
 
 ## Challenge structure
@@ -11,6 +11,15 @@ date: "2020-08-19"
 - 30 minutes writing
 
 ## Daily log
+
+**Day 18: 24 August 2020**
+
+_Today's Progress_:
+
+- Completed section 2.7 of [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
+- Completed CSS Grid in [Responsive Web Design Certification](https://www.freecodecamp.org/learn/)
+
+_Thoughts_: I've officially ready to start the projects in the Responsive Web Design Certification and I completed section 2 of Practical Python Programming.
 
 **Day 17: 23 August 2020**
 
