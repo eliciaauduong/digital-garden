@@ -12,6 +12,22 @@ date: "2020-08-24"
 
 ## Daily log
 
+**Day 20: 26 August 2020**
+
+_Today's Progress_:
+
+- Completed Functional Programming in [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/)
+
+_Thoughts_: I have one more section of the JavaScript Algorithms and Data Structures Certification so after tomorrow, I will be solely working on the 10 projects for my two freeCodeCamp Certifications.
+
+**Day 19: 25 August 2020**
+
+_Today's Progress_:
+
+- Completed Objected Oriented Programming in [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/)
+
+_Thoughts_: I didn't manage to upload my 100 days of code log on time so there's a grey box in my GitHub. However, I still completed a section on freeCodeCamp so I still have my 2 week streak.
+
 **Day 18: 24 August 2020**
 
 _Today's Progress_:
