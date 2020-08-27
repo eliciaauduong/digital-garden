@@ -12,6 +12,14 @@ date: "2020-08-24"
 
 ## Daily log
 
+**Day 21: 27 August 2020**
+
+_Today's Progress_:
+
+- Completed Project 1: [Tribute Page](https://codepen.io/eliciaauduong/pen/gOrgXGW) in [Responsive Web Design Certification](https://www.freecodecamp.org/learn/)
+
+_Thoughts_: I am three weeks into the 100 days of code challenge and I completed the first project out of five for the Responsive Web Design Certification. I created a tribute page for Amelia Earhart!
+
 **Day 20: 26 August 2020**
 
 _Today's Progress_:
@@ -26,7 +34,7 @@ _Today's Progress_:
 
 - Completed Objected Oriented Programming in [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/)
 
-_Thoughts_: I didn't manage to upload my 100 days of code log on time so there's a grey box in my GitHub. However, I still completed a section on freeCodeCamp so I still have my 2 week streak.
+_Thoughts_: I achieved a 2 week streak on freeCodeCamp! I thought I would have a grey box since I missed the midnight deadline for my GitHub commits but I actually completed some code earlier in the day so I'm all safe.
 
 **Day 18: 24 August 2020**
 
