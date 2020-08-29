@@ -12,6 +12,22 @@ date: "2020-08-24"
 
 ## Daily log
 
+**Day 23: 29 August 2020**
+
+_Today's Progress_:
+
+- Completed Project 2: [Survey Form](https://codepen.io/eliciaauduong/full/poywRpw) in [Responsive Web Design Certification](https://www.freecodecamp.org/learn/)
+
+_Thoughts_: Finished my second project for the Responsive Web Design Certification. I created a survey form inspired by Baymax in Big Hero 6.
+
+**Day 22: 28 August 2020**
+
+_Today's Progress_:
+
+- Created my own version of [Linktr.ee](https://eliciaauduong.github.io/link-elicia/)
+
+_Thoughts_: I was inspired by a post on dev.to to recreate a Linktr.ee page with links to all my social media accounts.
+
 **Day 21: 27 August 2020**
 
 _Today's Progress_:
