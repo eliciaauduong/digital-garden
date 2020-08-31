@@ -12,6 +12,22 @@ date: "2020-08-24"
 
 ## Daily log
 
+**Day 25: 31 August 2020**
+
+_Today's Progress_:
+
+- Completed Project 3: [Product Landing Page](https://codepen.io/eliciaauduong/full/QWNMbze) in [Responsive Web Design Certification](https://www.freecodecamp.org/learn/)
+
+_Thoughts_: My third project for the Responsive Web Design Certification was a product landing page for a donut subscription service.
+
+**Day 24: 30 August 2020**
+
+_Today's Progress_:
+
+- Completed section 3.1 of [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
+
+_Thoughts_: Today I took a break from my certifications and continued working on Practical Python Programming.
+
 **Day 23: 29 August 2020**
 
 _Today's Progress_:
