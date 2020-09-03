@@ -12,6 +12,30 @@ date: "2020-08-24"
 
 ## Daily log
 
+**Day 28: 3 September 2020**
+
+_Today's Progress_:
+
+- Completed 5/21 challenges in Introduction to the Intermediate Algorithm Scripting Challenges in [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/)
+
+_Thoughts_: These challenges are a lot more difficult than the previous ones, but I managed to complete 5 today.
+
+**Day 27: 2 September 2020**
+
+_Today's Progress_:
+
+- Started research into mobile application development.
+
+_Thoughts_: I want to build an app some time in the future, so I started researching some technologies to help me do so. I found Xamarin and Kotlin during my initial research.
+
+**Day 26: 1 September 2020**
+
+_Today's Progress_:
+
+- Completed section 3.2 of [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
+
+_Thoughts_: I am learning so many new functions that I can use in Python!
+
 **Day 25: 31 August 2020**
 
 _Today's Progress_:
