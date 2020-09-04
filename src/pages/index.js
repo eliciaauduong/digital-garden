@@ -35,24 +35,27 @@ export default function Home({ data }) {
           <a href="https://github.com/eliciaauduong/digital-garden">
             open-sourced
           </a>{" "}
-          and made with <Emoji symbol="💛" label="gold heart" /> using{" "}
-          <a href="https://www.gatsbyjs.org/">Gatsby</a>. You can view updates
+          and made with <Emoji symbol="❤️" label="red heart" /> using{" "}
+          <a href="https://www.gatsbyjs.com/">Gatsby</a>. You can view updates
           in the <Link to="/changelog">changelog</Link>.
         </p>
         <h3>Where do I start?</h3>
         <p>You're at the root but here are some links to check out!</p>
         <ul>
           <li>
-            <Link to="/100-days-of-code">#100DaysOfCode</Link>
+            <Link to="/covid-19">What I'm Doing in COVID-19</Link>
+          </li>
+          <li>
+            <Link to="/up-next">What's Next?</Link>
+          </li>
+          <li>
+            <Link to="/show-notes">Podcast Notes</Link>
           </li>
           {/* <li>
-            <Link to="/reading">Reading list</Link>
-          </li> */}
-          <li>
             <Link to="/sustainability">
               We all live here; do you know what's happening?
             </Link>
-          </li>
+          </li> */}
         </ul>
         <p>
           If you're interested in what I do or have any comments about this
@@ -60,29 +63,6 @@ export default function Home({ data }) {
           <a href="https://twitter.com/eliciaauduong/">Twitter</a> /{" "}
           <a href="https://www.linkedin.com/in/eliciaauduong/">LinkedIn</a>
         </p>
-
-        {/* <div class="grid-item">
-          <Link to="/climate/">
-            <Emoji symbol="🌦️" label="sun behind rain cloud" />
-            <br></br>
-            root/climate-change
-          </Link>
-        </div>
-        <div class="grid-item">
-          <Emoji symbol="🌏" label="earth" />
-          <br></br>
-          Global Issues
-        </div>
-        <div class="grid-item">
-          <Emoji symbol="🏭" label="factory" />
-          <br></br>
-          Pollution
-        </div>
-        <div class="grid-item">
-          <Emoji symbol="🌱" label="seedling" />
-          <br></br>
-          Sustainability
-        </div> */}
       </Layout>
     </div>
   )
