@@ -1,16 +1,18 @@
 ---
 title: "#100DaysOfCode"
 root: "challenge"
-date: "2020-08-24"
+date: "2020-09-04"
 ---
 
-## Challenge structure
-
-- 30 minutes learning
-- 30 minutes creating
-- 30 minutes writing
-
 ## Daily log
+
+**Day 29: 4 September 2020**
+
+_Today's Progress_:
+
+- Updated digital garden with what I'm working on and what I plan to do next.
+
+_Thoughts_: I want to use my digital garden more by taking notes on what I'm creating, reading and listening to.
 
 **Day 28: 3 September 2020**
 
