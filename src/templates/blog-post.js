@@ -13,7 +13,7 @@ export default function BlogPost({ data }) {
   // highlight-end
   return (
     <Layout>
-      {/* highlight-start */}
+      <title>{post.frontmatter.title} | Elicia's Digital Garden</title>
       <div>
         <p class="where">Elicia's Mind/{post.frontmatter.root}</p>
         <h1>{post.frontmatter.title}</h1>
@@ -38,7 +38,6 @@ export default function BlogPost({ data }) {
         </ul>
       </div>
       <p class="date">Last updated: {post.frontmatter.date}</p>
-      {/* highlight-end */}
     </Layout>
   )
 }

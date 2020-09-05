@@ -7,7 +7,7 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Elicia's Mind`,
+    title: `Elicia's Digital Garden`,
   },
   pathPrefix: `/digital-garden`,
   plugins: [

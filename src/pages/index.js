@@ -1,12 +1,13 @@
 import React from "react"
 import Layout from "../components/layout"
 import Emoji from "a11y-react-emoji"
-import { Link } from "gatsby"
+import { Link, graphql } from "gatsby"
 
 export default function Home({ data }) {
   console.log(data)
   return (
     <div>
+      <title>{data.site.siteMetadata.title}</title>
       <Layout>
         <p class="where">Elicia's mind/root</p>
         <h1>Welcome to my digital garden!</h1>
@@ -18,8 +19,21 @@ export default function Home({ data }) {
         <p>
           This website is a digital garden
           <Emoji symbol="🌱" label="seedling" /> (inspired by{" "}
-          <a href="https://www.aquiles.me/about/">Aquiles Carattino</a> and{" "}
-          <a href="https://joelhooks.com/digital-garden">Joel Hooks</a>
+          <a
+            href="https://www.aquiles.me/about/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Aquiles Carattino
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://joelhooks.com/digital-garden"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Joel Hooks
+          </a>
           ), an ongoing work in progress of all my thoughts and notes.
           Everything here is scattered; there is no index or categories. The
           only way around is through links.
@@ -67,3 +81,13 @@ export default function Home({ data }) {
     </div>
   )
 }
+
+export const query = graphql`
+  query {
+    site {
+      siteMetadata {
+        title
+      }
+    }
+  }
+`
