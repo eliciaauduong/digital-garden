@@ -6,7 +6,7 @@ date: "2020-08-06"
 
 **04.09.20**
 
-- Planted new seeds - what I'm doing in COVID=19, podcast notes, what's next
+- Planted new seeds - what I'm doing in COVID-19, podcast notes, what's next
 
 **06.08.20**
 
