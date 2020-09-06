@@ -22,6 +22,7 @@
     "@fortawesome/react-fontawesome": "^0.1.11",
     "a11y-react-emoji": "^1.1.2",
     "gatsby": "^2.23.12",
+    "gatsby-plugin-manifest": "^2.4.27",
     "gatsby-source-filesystem": "^2.3.24",
     "gatsby-transformer-remark": "^2.8.28",
     "react": "^16.12.0",
