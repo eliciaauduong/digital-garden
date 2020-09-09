@@ -6,6 +6,48 @@ date: "2020-09-04"
 
 ## Daily log
 
+**Day 34: 9 September 2020**
+
+_Today's Progress_:
+
+- Continued researching eleventy
+
+_Thoughts_: I watched some live demos of how to use eleventy to gain a more solid understanding so that tomorrow I can start building my blog.
+
+**Day 33: 8 September 2020**
+
+_Today's Progress_:
+
+- Completed section 3.3 of [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
+- Started looking into eleventy and how to use it for a blog
+
+_Thoughts_: Somebody suggested taking a look at eleventy as a static site generator so I was researching how I can use it for my blog.
+
+**Day 32: 7 September 2020**
+
+_Today's Progress_:
+
+- Researched static site generators - looking to use either Gatsby or Hugo for my next project
+
+_Thoughts_: I'm planning to build an MVP for my blog by the end of this week so I wanted to start looking into what technologies I can use.
+
+**Day 31: 6 September 2020**
+
+_Today's Progress_:
+
+- Completed 2 challenges in Introduction to the Intermediate Algorithm Scripting Challenges in [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/)
+- Added a favicon to my digital garden
+
+_Thoughts_: Today, I learned how to change the favicon for my digital garden in Gatsby and made some more progress on my JavaScript Algorithms and Data Structures Certification.
+
+**Day 30: 5 September 2020**
+
+_Today's Progress_:
+
+- Updated digital garden to sow a title instead of a link.
+
+_Thoughts_: I'm slowly trying to improve the look of my digital garden.
+
 **Day 29: 4 September 2020**
 
 _Today's Progress_:
