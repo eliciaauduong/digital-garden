@@ -6,6 +6,38 @@ date: "2020-09-04"
 
 ## Daily log
 
+**Day 38: 13 September 2020**
+
+_Today's Progress_:
+
+- Started looking into adding MDX to my Gatsby blog
+
+_Thoughts_: I was looking into styling the blog posts that I wrote in MD but couldn't find a way to do this until I stumbled upon MDX.
+
+**Day 37: 12 September 2020**
+
+_Today's Progress_:
+
+- Finished building the navbar and footer for my blog
+
+_Thoughts_: I finished the layout template for my blog. Now I'm ready to start working on building each page.
+
+**Day 36: 11 September 2020**
+
+_Today's Progress_:
+
+- Started building the navbar for my blog
+
+_Thoughts_: I'm not too sure what I want my blog to look like yet so I just started working on the navigation bar (since I have decided on the pages to build for my MVP).
+
+**Day 35: 10 September 2020**
+
+_Today's Progress_:
+
+- Finished Gatsby tutorial
+
+_Thoughts_: I decided to build the first version of my blog with Gatsby since I wanted to get the MVP set up by the end of this week (and I'm still trying to learn the ins and outs of eleventy).
+
 **Day 34: 9 September 2020**
 
 _Today's Progress_:
