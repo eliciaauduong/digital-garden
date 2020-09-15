@@ -17,7 +17,6 @@ date: "2020-09-04"
 
 - freeCodeCamp: Responsive Web Design Certification
 - freeCodeCamp: Javascript Algorithms and Data Structures Certification
-- Digital Skills: User Experience
 
 ## [Books to read](https://www.goodreads.com/review/list/120933959?shelf=to-read&view=covers)
 
