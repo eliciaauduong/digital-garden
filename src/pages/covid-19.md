@@ -17,6 +17,7 @@ date: "2020-09-04"
 - [Digital Skills: Digital Skills for Work and Life](https://www.futurelearn.com/certificates/7wbv60f)
 - [Digital Skills: Social Media](https://www.futurelearn.com/certificates/jju2idw)
 - [Digital Skills: Digital Marketing](https://www.futurelearn.com/certificates/swriwap)
+- [Digital Skills: User Experience](https://www.futurelearn.com/certificates/4jmp4vo)
 - [Introduction to Personal Branding](https://coursera.org/share/baefa82b04176c6f088622f2a55b11fe)
 - Java Tutorial Course
 
