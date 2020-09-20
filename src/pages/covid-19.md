@@ -1,7 +1,7 @@
 ---
 title: "What I'm Doing in COVID-19"
 root: "updates"
-date: "2020-09-04"
+date: "2020-09-20"
 ---
 
 ## Projects & Challenges
@@ -11,9 +11,12 @@ date: "2020-09-04"
 - [freeCodeCamp Project 1: Tribute Page](https://codepen.io/eliciaauduong/full/gOrgXGW)
 - [freeCodeCamp Project 2: Survey Form](https://codepen.io/eliciaauduong/full/poywRpw)
 - [freeCodeCamp Project 3: Product Landing Page](https://codepen.io/eliciaauduong/full/QWNMbze)
+- [freeCodeCamp Project 4: Technical Documentation Page](https://codepen.io/eliciaauduong/full/KKzxrqz)
+- [freeCodeCamp Project 5: Personal Portfolio](https://codepen.io/eliciaauduong/full/zYqmeZg)
 
 ## Certifications
 
+- [freeCodeCamp: Responsive Web Design Certification](https://www.freecodecamp.org/certification/eliciaauduong/responsive-web-design)
 - [Digital Skills: Digital Skills for Work and Life](https://www.futurelearn.com/certificates/7wbv60f)
 - [Digital Skills: Social Media](https://www.futurelearn.com/certificates/jju2idw)
 - [Digital Skills: Digital Marketing](https://www.futurelearn.com/certificates/swriwap)

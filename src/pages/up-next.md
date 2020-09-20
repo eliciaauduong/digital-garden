@@ -1,13 +1,16 @@
 ---
 title: "What's Next?"
 root: "notes"
-date: "2020-09-04"
+date: "2020-09-20"
 ---
 
 ## Topics that I'm interested in
 
 - Mobile application development
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/?ref=hackernoon.com)
+- Data analytics
+- Cloud computing
+- Automation
+  - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/?ref=hackernoon.com)
 
 ## Challenges to complete
 
@@ -15,7 +18,6 @@ date: "2020-09-04"
 
 ## Certifications in progress
 
-- freeCodeCamp: Responsive Web Design Certification
 - freeCodeCamp: Javascript Algorithms and Data Structures Certification
 
 ## [Books to read](https://www.goodreads.com/review/list/120933959?shelf=to-read&view=covers)
