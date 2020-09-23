@@ -6,6 +6,87 @@ date: "2020-09-04"
 
 ## Daily log
 
+**Day 48: 23 September 2020**
+
+_Today's Progress_:
+
+- Looking for small projects to work on to add to my portfolio
+
+_Thoughts_: Now that I finished my Responsive Web Design Certification, I'm looking for some projects to add to my portfolio.
+
+**Day 47: 22 September 2020**
+
+_Today's Progress_:
+
+- Finished week 1 lecture demo on OOP in Java
+
+_Thoughts_: Completed all my university work for week 1 on object oriented programming.
+
+**Day 46: 21 September 2020**
+
+_Today's Progress_:
+
+- Created a quick page with all the links to a [student society's podcast](https://unswwit.com/talkwitus/)
+
+_Thoughts_: One of my student societies just started a podcast and needed a site with all the links to the different platforms that you can listen to the podcast. I created a webpage like a Linktree account with all these links.
+
+**Day 45: 20 September 2020**
+
+_Today's Progress_:
+
+- Completed Project 5: [Personal Portfolio](https://codepen.io/eliciaauduong/full/zYqmeZg) in [Responsive Web Design Certification](https://www.freecodecamp.org/learn/)
+
+_Thoughts_: Finished project 5/5 and earned my certificate in Responsive Web Design.
+
+**Day 44: 19 September 2020**
+
+_Today's Progress_:
+
+- Spent today taking notes on Object Oriented Programming and coding in Java for my university course
+
+_Thoughts_: I'm starting to become more familiar with Object Oriented Programming.
+
+**Day 43: 18 September 2020**
+
+_Today's Progress_:
+
+- Completed Project 4: [Technical Documentation Page](https://codepen.io/eliciaauduong/full/KKzxrqz) in [Responsive Web Design Certification](https://www.freecodecamp.org/learn/)
+
+_Thoughts_: Finished project 4/5. I created a technical documentation page on basic Python concepts.
+
+**Day 42: 17 September 2020**
+
+_Today's Progress_:
+
+- Started looking into my university class on object-oriented programming
+- Had a run through for an upcoming workshop that I'm leading for a student society
+
+_Thoughts_: Back at university this week and starting to learn object-oriented programming.
+
+**Day 41: 16 September 2020**
+
+_Today's Progress_:
+
+- Finished adding social media links to contact page for blog
+
+_Thoughts_: Made small progress on building my blog.
+
+**Day 40: 15 September 2020**
+
+_Today's Progress_:
+
+- Finished my Digital Skills: User Experience course
+
+_Thoughts_: I finished off the last week of my [User Experience course](https://www.futurelearn.com/certificates/4jmp4vo) from Accenture.
+
+**Day 39: 14 September 2020**
+
+_Today's Progress_:
+
+- Finished designing the layouts for my blog pages
+
+_Thoughts_: I finished creating the designed for the first version of my blog and should be ready to start building this soon.
+
 **Day 38: 13 September 2020**
 
 _Today's Progress_:
@@ -334,10 +415,3 @@ _Today's Progress_:
 _Thoughts_: I've only just started learning Java, so I have a grasp on the Java basics - still need to practice more OOP concepts though. I want to keep up my Python skills with a hands-on approach, so I'll be doing one section of the Practical Python Programming course every day.
 
 Still not too sure about what type of projects to make. Right now, the goal is to learn as many different technologies as I can by following interesting tutorials that I find.
-
-## Future projects
-
-- LOA app
-- Pomodoro timer
-- Appointment scheduler
-- Dashboard
