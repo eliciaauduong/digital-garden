@@ -27,6 +27,9 @@ Mention code coverage percentage in description
 Fix bugs before starting new features
 
 # UX Portfolio 
-<a href="https://github.com/eliciaauduong/digital-garden/ux-portfolio">
-            Building UX portfolio
-          </a>
+
+[Building UX portfolio](https://github.com/eliciaauduong/digital-garden/ux-portfolio)
+
+# Add projects to your portfolio
+
+[Project ideas](https://github.com/eliciaauduong/digital-garden/projects)
