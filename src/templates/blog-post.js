@@ -16,7 +16,7 @@ export default function BlogPost({ data }) {
       <title>{post.frontmatter.title} | Elicia's Digital Garden</title>
       <div>
         <p class="where">Elicia's Mind/{post.frontmatter.root}</p>
-        <h1>{post.frontmatter.title}</h1>
+        <h1 id="title">{post.frontmatter.title}</h1>
 
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <ul class="socials">

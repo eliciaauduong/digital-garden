@@ -3,6 +3,10 @@
   letter-spacing: 1pt;
 }
 
+#title {
+  color: #347fc4;
+}
+
 p,
 li {
   font-size: 1.05rem;
