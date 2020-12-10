@@ -1,7 +1,7 @@
 ---
 title: "What's Next?"
 root: "notes"
-date: "2020-09-20"
+date: "2020-12-10"
 ---
 
 ## Topics that I'm interested in
@@ -19,9 +19,3 @@ date: "2020-09-20"
 ## Certifications in progress
 
 - freeCodeCamp: Javascript Algorithms and Data Structures Certification
-
-## [Books to read](https://www.goodreads.com/review/list/120933959?shelf=to-read&view=covers)
-
-- House of Hades by Rick Riordan
-- Wuthering Heights by Emily Brontë
-- The Subtle Art of Not Giving a F\*ck by Mark Manson

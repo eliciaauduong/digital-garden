@@ -50,8 +50,7 @@ export default function Home({ data }) {
             open-sourced
           </a>{" "}
           and made with <Emoji symbol="❤️" label="red heart" /> using{" "}
-          <a href="https://www.gatsbyjs.com/">Gatsby</a>. You can view updates
-          in the <Link to="/changelog">changelog</Link>.
+          <a href="https://www.gatsbyjs.com/">Gatsby</a>.
         </p>
         <h3>Where do I start?</h3>
         <p>You're at the root but here are some links to check out!</p>
@@ -65,11 +64,6 @@ export default function Home({ data }) {
           <li>
             <Link to="/show-notes">Podcast Notes</Link>
           </li>
-          {/* <li>
-            <Link to="/sustainability">
-              We all live here; do you know what's happening?
-            </Link>
-          </li> */}
         </ul>
         <p>
           If you're interested in what I do or have any comments about this

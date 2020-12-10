@@ -1,7 +1,7 @@
 ---
 title: "What I'm Doing in COVID-19"
 root: "updates"
-date: "2020-09-20"
+date: "2020-12-10"
 ---
 
 ## Projects & Challenges
@@ -26,7 +26,6 @@ date: "2020-09-20"
 
 ## Programs & Activities
 
+- Microsoft Codess Australia
 - Google Get Ahead: ANZ Winter 2020
 - Zooniverse Volunteering
-
-View this page on [Notion](https://www.notion.so/eliciaaauduong/What-I-m-Doing-in-COVID-19-Elicia-Au-Duong-bc813adee82a4eea9128e125d2019386).
