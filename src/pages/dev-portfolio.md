@@ -1,7 +1,7 @@
 ---
 title: "Improving your developer portfolio"
 root: "portfolio"
-date: "2020-12-10"
+date: "2020-12-14"
 ---
 
 # Improving GitHub portfolio 
@@ -30,6 +30,9 @@ Fix bugs before starting new features
 
 [Building UX portfolio](https://github.com/eliciaauduong/digital-garden/ux-portfolio)
 
+
+# User Interface
+[UI](https://github.com/eliciaauduong/digital-garden/user-interface)
 # Add projects to your portfolio
 
 [Project ideas](https://github.com/eliciaauduong/digital-garden/projects)

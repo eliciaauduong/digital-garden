@@ -62,7 +62,7 @@ export default function Home({ data }) {
             <Link to="/up-next">What's Next?</Link>
           </li>
           <li>
-            <Link to="/show-notes">Podcast Notes</Link>
+            <Link to="/dev-portfolio">Improving your developer portfolio</Link>
           </li>
         </ul>
         <p>
