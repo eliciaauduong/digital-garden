@@ -26,13 +26,14 @@ Mention code coverage percentage in description
 
 Fix bugs before starting new features
 
-# UX Portfolio 
+# Design
 
 [Building UX portfolio](https://github.com/eliciaauduong/digital-garden/ux-portfolio)
+[User Interface](https://github.com/eliciaauduong/digital-garden/user-interface)
 
+## Design Process
 
-# User Interface
-[UI](https://github.com/eliciaauduong/digital-garden/user-interface)
+Wireframe --> Hi-def wireframe --> Visual --> Code
 # Add projects to your portfolio
 
 [Project ideas](https://github.com/eliciaauduong/digital-garden/projects)
