@@ -20,9 +20,9 @@ date: "2020-12-14"
 
 # Design
 
-[Building a UX portfolio](https://github.com/eliciaauduong/digital-garden/ux-portfolio)
+[User Experience & User Interface Design](/ux-ui)
 
-[User Interface](https://github.com/eliciaauduong/digital-garden/user-interface)
+[Building a UX portfolio](/ux-portfolio)
 
 ## Design Process
 
