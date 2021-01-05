@@ -29,4 +29,4 @@ date: "2020-12-14"
 Wireframe --> Hi-def wireframe --> Visual --> Code
 # Add projects to your portfolio
 
-[Project ideas](https://github.com/eliciaauduong/digital-garden/projects)
+[Project ideas](/projects)
